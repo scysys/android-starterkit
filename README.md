@@ -14,6 +14,8 @@ Basierend auf: https://www.streampanel.net/apps/
 
 Wir prüfen die Archive und Grafiken die Sie uns senden nicht. Achten Sie darauf die Größen und Einstellungen der PSD-Dateien nicht zu verändern und es wird keine probleme geben.
 
+Achten sie auch darauf die Dateinnamen nicht zu verändern!
+
 # English
 
 ## android-starterkit for STREAMPANEL Apps
