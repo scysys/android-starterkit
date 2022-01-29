@@ -1,3 +1,7 @@
+# Achtung
+
+In neueren Versionen ist das Design direkt im Browser anpassbar. Die Bearbeitung dieses Archives ist mittlerweile unnötig und wird auch nicht mehr unterstützt.
+
 # German
 ## android-starterkit für STREAMPANEL Apps
 Android Starterkit zur Erstellung des eigenen Brandings.
