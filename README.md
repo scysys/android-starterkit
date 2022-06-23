@@ -1,3 +1,5 @@
+# ARCHIVED. ITS NOT NEEDED ANYMORE. ANYTHING IS NOW AUTOMATED.
+
 # German
 ## android-starterkit für STREAMPANEL Apps
 Android Starterkit zur Erstellung des eigenen Brandings.
